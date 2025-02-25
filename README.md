@@ -1,4 +1,4 @@
-# Men vs. Women Image Classification
+# Gender Image Classification
 
 ## Overview
 This project aims to classify images of men and women using deep learning techniques. We leverage the power of convolutional neural networks by utilizing the pre-trained VGG16 architecture, originally trained on the ImageNet dataset, to extract meaningful features from the images. The model is then fine-tuned on a custom dataset to enhance its accuracy in distinguishing between male and female images.
