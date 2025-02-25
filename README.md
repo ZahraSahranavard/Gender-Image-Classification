@@ -18,7 +18,7 @@ Before running this project, ensure you have the following installed:
 You can install these dependencies using pip:
 
 ```bash
-pip install tensorflow numpy matplotlib pandas kaggle pathlib
+pip install tensorflow numpy matplotlib pandas
 ```
 
 ## Downloading the Dataset
