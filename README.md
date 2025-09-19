@@ -1,6 +1,8 @@
-# Gender Image Classification
+# 📑 Gender Image Classification
 
-## Overview
+![Bank Transaction Analysis](https://github.com/ZahraSahranavard/Gender-Image-Classification/blob/main/Image/Men-Women-Classification.jpg)
+
+## 🔹 Project Overview
 This project aims to classify images of men and women using Deep Learning techniques. I leverage the power of convolutional neural networks by utilizing the pre-trained VGG16 architecture, originally trained on the ImageNet dataset, to extract meaningful features from the images. The model is then fine-tuned on a custom dataset to enhance its accuracy in distinguishing between male and female images.
 
 ## Prerequisites
@@ -35,3 +37,4 @@ Upload your kaggle.json file to authenticate your Kaggle account.
 
 ## Results
 The training process includes monitoring both training and validation accuracy and loss over epochs. The resulting plots provide a visual representation of the model’s performance and convergence during training. These plots help in diagnosing potential overfitting or underfitting issues and in fine-tuning hyperparameters for improved results.
+
